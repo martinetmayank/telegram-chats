@@ -2,7 +2,7 @@
 Export telegram chat/message of specific group, user, channel [Private also, if you had already joined]
 
 ## How to run
->pip install -r requirements.txt
+>pip install -r requirements.txt<br>
 >python main.py
 
 
